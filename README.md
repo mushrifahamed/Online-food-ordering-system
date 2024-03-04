@@ -22,11 +22,8 @@ This is a project for an online food ordering system developed using HTML, CSS, 
 
 ## Screenshots
 
-![Screenshot1](/Pictures/Screenshots/Screenshot(106).png)
-*Caption for Screenshot 1*
-
-![Screenshot2](/images/screenshot2.png)
-*Caption for Screenshot 2*
+![Screenshot (106)](https://github.com/mushrifahamed/Online-food-ordering-system/assets/68167577/aa7963df-d679-42ae-8bcc-d01f6a96291d)
+![Screenshot (107)](https://github.com/mushrifahamed/Online-food-ordering-system/assets/68167577/01f5c816-a48b-4b09-9b61-ffafce6055e0)
 
 ## Getting Started
 
