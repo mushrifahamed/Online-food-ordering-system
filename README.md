@@ -32,20 +32,12 @@ This is a project for an online food ordering system developed using HTML, CSS, 
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/online-food-ordering-system.git`
+1. Clone the repository: `git clone https://github.com/mushrifahamed/online-food-ordering-system.git`
 2. Import the project into Eclipse IDE.
 3. Set up the MySQL database using the provided SQL scripts.
 4. Configure the database connection in the Java code.
 5. Run the project on a local server (e.g., Apache Tomcat).
 
-## Contributing
-
-Contributions are welcome! Please feel free to open issues or pull requests for any improvements or fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
-- List any acknowledgements or credits for libraries, frameworks, or resources used in the project.
+- List any acknowledgments or credits for libraries, frameworks, or resources used in the project.
