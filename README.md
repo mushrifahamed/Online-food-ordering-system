@@ -22,7 +22,7 @@ This is a project for an online food ordering system developed using HTML, CSS, 
 
 ## Screenshots
 
-![Screenshot1](/images/screenshot1.png)
+![Screenshot1](/Pictures/Screenshots/Screenshot(106).png)
 *Caption for Screenshot 1*
 
 ![Screenshot2](/images/screenshot2.png)
